@@ -1,0 +1,16 @@
+Order_ID,Date,Day,Category,Quantity,Price_Per_Item,Discount,Customer_Rating,Sales
+1001,2026-01-01,Monday,Pizza,2,250,20,5,480
+1002,2026-01-02,Tuesday,Burger,3,150,10,4,440
+1003,2026-01-03,Wednesday,Biryani,1,300,0,5,300
+1004,2026-01-04,Thursday,Pasta,4,200,30,3,770
+1005,2026-01-05,Friday,Pizza,2,250,15,4,485
+1006,2026-01-06,Saturday,Burger,5,150,25,5,725
+1007,2026-01-07,Sunday,Biryani,3,300,20,4,840
+1008,2026-01-08,Monday,Pasta,2,200,10,3,390
+1009,2026-01-09,Tuesday,Pizza,4,250,30,5,970
+1010,2026-01-10,Wednesday,Burger,6,150,15,4,735
+1011,2026-01-11,Thursday,Biryani,2,300,10,5,540
+1012,2026-01-12,Friday,Pasta,5,200,20,4,800
+1013,2026-01-13,Saturday,Pizza,3,250,15,5,735
+1014,2026-01-14,Sunday,Burger,4,150,10,3,530
+1015,2026-01-15,Monday,Biryani,5,300,25,5,1125
