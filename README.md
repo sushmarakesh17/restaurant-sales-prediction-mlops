@@ -124,9 +124,7 @@ https://restaurant-sales-prediction-mlops-5fprjqqyykzqjwtb28u737.streamlit.app/
 
 ## 📸 Application Preview
 
-*Add a screenshot of your Streamlit application here.*
-
----
+![Restaurant Sales Prediction Dashboard](dashboard.png)
 
 ## 📈 Future Enhancements
 
